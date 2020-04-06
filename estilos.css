@@ -1,0 +1,54 @@
+#principal{
+    background:#d1d8e0;
+    
+    margin:auto;
+}
+
+
+#pelis{
+
+    font-size: 20px ;border:1px solid black ;width:170px  ; float:left ;margin-left: 15px; height: 220px; 
+    background:#1e272e; color:white;
+}
+
+
+
+#terror{
+    border:1px solid black; width: 170px; float:right; margin-right:15px ; height: 250px ; background:#1e272e;
+    color:white;
+}
+
+#drama{
+    border:1px solid black; width:170px; float:right; height:300px; margin-right:15px;  background:#1e272e;
+    color:white; height:250px;
+}
+
+#animacion{
+
+    border:1px solid black; width:170px; float:right; height:300px; margin-right:15px; background:#1e272e;
+    color:white; height:250px;
+}
+
+#psicologia{
+
+    border:1px solid black; width:170px; float:right; height:300px; margin-right:15px;  background:#1e272e;
+    color:white; height:250px;
+   
+}
+
+#romantica{
+
+    border:1px solid black; width:170px; float:right; height:300px; margin-right:15px;  background:#1e272e;
+    color:white; height:250px;
+
+}
+
+
+#misterio{
+
+    border:1px solid black; width:170px; float:right; height:300px; margin-right:22px;  background:#1e272e;
+    color:white; height:250px;
+
+
+
+}
